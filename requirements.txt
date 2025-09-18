@@ -1,0 +1,5 @@
+flask==3.0.3
+twilio==9.3.2
+crewai==0.28.8
+langchain-openai==0.1.7
+openai==1.43.0
